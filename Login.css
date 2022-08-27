@@ -1,0 +1,27 @@
+﻿body {
+}
+.Maindiv{
+     margin-left: 32%;
+    margin-right: 33%;
+    background-color: antiquewhite;
+    margin-top: 50px;
+    text-align: center;
+   
+}
+.loginbutton
+{
+   width:70px;
+   height:30px;
+   background-color:antiquewhite;
+       text-align: center;
+    display: flex;
+    
+   
+}
+.Registerbutton{
+    width:70px;
+   height:30px;
+   background-color:antiquewhite;
+       text-align: center;
+    display: inline-flex;
+}

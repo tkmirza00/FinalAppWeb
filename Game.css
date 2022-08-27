@@ -1,0 +1,40 @@
+﻿
+.mycell {
+    flex: 1;
+    margin: 0px;
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    border: 2px solid purple;
+    cursor: pointer;
+}
+
+.myboard {
+    margin-left: 32%;
+    margin-right: 33%;
+    background-color: antiquewhite;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.myCellDiv
+{
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+    border: 1px;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.mynotification{
+    margin-left: 32%;
+    margin-right: 33%;
+    background-color: red;
+    margin-top: 50px;
+    text-align: center;
+    color:black;
+    display: flex;
+    flex-wrap: wrap;
+}
